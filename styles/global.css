@@ -14,13 +14,13 @@
   --text-highlight: #E43A12;
 
   --surface-primary: #FFFFFF;
-  --surface-secundary: #FEE7D6;
+  --surface-secondary: #FEE7D6;
 
   --stroke-default: #D6D3D1;
   --stroke-higthlight: #F3541C;
   --semantic-error: #DC2626;
 
-  zoom: 60%;
+ 
 }
 
 body {
